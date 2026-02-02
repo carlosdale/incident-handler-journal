@@ -1,5 +1,5 @@
-# Incident Handler's Journal
-A collection of incident responses and 
+# Incident Handler’s Journal – Security Incident Documentation
+This project documents a lab-based approach to security incident documentation using an incident handler’s journal. The objective was to practice accurately recording incident details, analysis steps, and observations throughout the incident response process.
 
 # Scenario 1
 
