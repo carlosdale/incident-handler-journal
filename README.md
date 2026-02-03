@@ -13,10 +13,13 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 
 # Scenario 2
 
-Analyzing a packet
-- Open a packet capture file using Wireshark
-- Examine packet information
-- Apply display filters
+You’ll analyze a network packet capture file that contains traffic data related to a user connecting to an internet site. The ability to filter network traffic using packet sniffers to gather relevant information is an essential skill as a security analyst.
+
+You must filter the data in order to:
+
+- Identify the source and destination IP addresses involved in this web browsing session
+- Examine the protocols that are used when the user makes the connection to the website
+- Analyze some of the data packets to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
 
 # Scenario 3
 
