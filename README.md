@@ -51,21 +51,4 @@ Here is a timeline of the events leading up to this alert:
 
 - 1:20 p.m.: An intrusion detection system detects the executable files and sends out an alert to the SOC.
 
-# Scenario 5
-
-You are a level-one security operations center (SOC) analyst at a financial services company. Previously, you received a phishing alert about a suspicious file being downloaded on an employee's computer. After investigating the email attachment file's hash, the attachment has already been verified malicious. Now that you have this information, you must follow your organization's process to complete your investigation and resolve the alert.
-
-Your organization's security policies and procedures describe how to respond to specific alerts, including what to do when you receive a phishing alert. 
-
-In the playbook, there is a flowchart and written instructions to help you complete your investigation and resolve the alert. At the end of your investigation, you will update the alert ticket with your findings about the incident.
-
-# Scenario 6
-
-Exploring signatures and logs with Suricata
-- Examine a rule in Suricata
-- Trigger a rule and review the alert logs
-- Examine eve.json outputs
-
-
-
 
