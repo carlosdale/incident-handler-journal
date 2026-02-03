@@ -23,7 +23,10 @@ You must filter the data in order to:
 
 # Scenario 3
 
-Capturing a packet
+You’re a network analyst who needs to use tcpdump to capture and analyze live network traffic from a Linux virtual machine.
+
+You must:
+
 - Identify available network interfaces
 - Use tcpdump to capture live network traffic
 - Save network traffic to a packet capture file
